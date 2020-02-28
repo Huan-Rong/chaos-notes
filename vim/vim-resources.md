@@ -1,4 +1,8 @@
 # Vim Resources
+
+* `vimtutor` 命令
+* [Chris Toomey](https://ctoomey.com/speaking#podcasts)
+
 ## 标签页和窗口
 
 > [Vim 标签页和窗口](https://blog.csdn.net/fuxingdaima/article/details/8658342)
