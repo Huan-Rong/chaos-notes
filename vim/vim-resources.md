@@ -2,6 +2,14 @@
 
 * `vimtutor` 命令
 * [Chris Toomey](https://ctoomey.com/speaking#podcasts)
+* [玩转 Vim - 从放弃到爱不释手](https://www.imooc.com/learn/1129)
+
+## 目标
+
+* Vim 基础操作
+* Vim 基础概念
+* Vim 配置
+* Vim 插件
 
 ## 标签页和窗口
 
